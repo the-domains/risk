@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "One stop designer for your residential designs, manicured landscapes and elegant interiors, each customized to\_suited you personally."
-datePublished: '2016-04-07T20:21:15.666Z'
-dateModified: '2016-04-07T20:19:14.175Z'
+datePublished: '2016-04-07T20:25:42.321Z'
+dateModified: '2016-04-07T20:23:34.649Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-07-custom-designing-homes-landscapes-and-interiors-suited-for.md
