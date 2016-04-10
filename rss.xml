@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RiSK]]></title>
+        <description><![CDATA[RiSK]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 19:51:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[revit - Google Search]]></title>
+            <description><![CDATA[<article><h1>revit - Google Search</h1><p>Utilizing advanced drafting software, we can focus more on design resting assured that the technical information is on point with current building codes and bylaws. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6023c94b4bcf1091fd1ed857a8c63148f767ec3.jpg"></article>]]></description>
+            <link>https://www.google.ca/search?q=revit&amp;client=ms-android-bell-ca&amp;prmd=ivn&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiVsq3atf7LAhVqsoMKHdQqBJkQ_AUIBygB&amp;biw=360&amp;bih=559#tbm=isch&amp;q=revit+2016+logo&amp;imgrc=KEQ9R-3-oAlZ9M%3A</link>
+            <guid isPermaLink="false">b241871f-47b5-4a13-afd7-ddc99592a626</guid>
+            <pubDate>Sun, 10 Apr 2016 19:51:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
