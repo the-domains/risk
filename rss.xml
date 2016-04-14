@@ -4,8 +4,15 @@
         <description><![CDATA[Mindful Designing]]></description>
         <link>https://thegrid.ai/risk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 20:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 20:12:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/risk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e8be312-7bf5-4de0-abf4-10e8104a0ba5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/risk/about-me/index.html</link>
+            <guid isPermaLink="false">537efa7c-6541-4f1b-b266-0e3b850989ee</guid>
+            <pubDate>Thu, 14 Apr 2016 20:11:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Services]]></title>
             <description><![CDATA[<article><h1>Services</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/098e25ae51a7c0be26b4acc1dcddd86bfc4653e5.png"></article>]]></description>
@@ -15,17 +22,10 @@
         </item>
         <item>
             <title><![CDATA[Pricing]]></title>
-            <description><![CDATA[<article><h1>Pricing</h1><p>By using flat rate pricing we are able to provide you the best as we are not worried about the amount it takes but rather getting it right the first time!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb46729e-6c8b-4bb6-b55d-728b24d0bc4a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Pricing</h1><p>Using flat rate pricing allows us to provide you with best the first time!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb46729e-6c8b-4bb6-b55d-728b24d0bc4a.png"></article>]]></description>
             <link>https://thegrid.ai/risk/fb783315-6da5-4f8c-9137-fa6683ff9747/index.html</link>
             <guid isPermaLink="false">fb783315-6da5-4f8c-9137-fa6683ff9747</guid>
             <pubDate>Thu, 14 Apr 2016 20:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e8be312-7bf5-4de0-abf4-10e8104a0ba5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/risk/about-me/index.html</link>
-            <guid isPermaLink="false">537efa7c-6541-4f1b-b266-0e3b850989ee</guid>
-            <pubDate>Thu, 14 Apr 2016 19:28:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
