@@ -1,4 +1,20 @@
-analytics: {}
+name: RiSK
+favicon: null
+layout_spectrum: 0.416193
+typography_spectrum: 0.15563832502812147
+title: Designing with you in Mind
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C0C0C0'
@@ -8,11 +24,6 @@ color:
     - '#000000'
   brandStrength: 0.005691910395398736
   lightness: 0.6610749335959554
-  rhythmicContrast: 0.5872112438082695
   saturation: 0.1257169065065682
-cta: {}
-layout_spectrum: 0.416193
-name: RiSK
-opengraph: {}
+  rhythmicContrast: 0.5872112438082695
 purpose: []
-typography_spectrum: 0.15563832502812147
