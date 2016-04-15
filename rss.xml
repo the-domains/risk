@@ -4,8 +4,15 @@
         <description><![CDATA[Mindful Designing]]></description>
         <link>https://thegrid.ai/risk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 00:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 01:00:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/risk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Me]]></title>
+            <description><![CDATA[<h1>Contact Me</h1>]]></description>
+            <link>https://thegrid.ai/risk/contact-me/index.html</link>
+            <guid isPermaLink="false">925cee9f-111e-458b-8ee2-d38e1e112ebe</guid>
+            <pubDate>Fri, 15 Apr 2016 01:00:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pricing]]></title>
             <description><![CDATA[<article><h1>Pricing</h1><p>Using our flat rate pricing allows us to provide you with best the first time!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb46729e-6c8b-4bb6-b55d-728b24d0bc4a.png"></article>]]></description>
