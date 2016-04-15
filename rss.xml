@@ -4,8 +4,15 @@
         <description><![CDATA[Mindful Designing]]></description>
         <link>https://thegrid.ai/risk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 05:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 05:50:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/risk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Design]]></title>
+            <description><![CDATA[<h1>Design</h1>]]></description>
+            <link>https://thegrid.ai/risk/design-process/index.html</link>
+            <guid isPermaLink="false">6efcb629-88b1-424f-9011-a5a433184de8</guid>
+            <pubDate>Fri, 15 Apr 2016 05:49:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pricing]]></title>
             <description><![CDATA[<article><h1>Pricing</h1><p>Our hourly pricing allows us to provide you with quality drawings & details so construction continues with the least amount of interruptions.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb46729e-6c8b-4bb6-b55d-728b24d0bc4a.png"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/risk/contact-me/index.html</link>
             <guid isPermaLink="false">925cee9f-111e-458b-8ee2-d38e1e112ebe</guid>
             <pubDate>Fri, 15 Apr 2016 05:39:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design]]></title>
-            <description><![CDATA[<h1>Design</h1>]]></description>
-            <link>https://thegrid.ai/risk/design-process/index.html</link>
-            <guid isPermaLink="false">6efcb629-88b1-424f-9011-a5a433184de8</guid>
-            <pubDate>Fri, 15 Apr 2016 01:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Me]]></title>
