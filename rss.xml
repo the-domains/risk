@@ -4,8 +4,15 @@
         <description><![CDATA[Mindful Designing]]></description>
         <link>https://thegrid.ai/risk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 05:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 05:53:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/risk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Me]]></title>
+            <description><![CDATA[<article><h1>Contact Me</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cadc43e7e8211a0982607e1180e9b646b33bda0d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/risk/contact-me/index.html</link>
+            <guid isPermaLink="false">925cee9f-111e-458b-8ee2-d38e1e112ebe</guid>
+            <pubDate>Fri, 15 Apr 2016 05:52:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Design]]></title>
             <description><![CDATA[<h1>Design</h1>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/risk/projects/index.html</link>
             <guid isPermaLink="false">e18c7169-f550-4a77-b34e-06ed19b6a644</guid>
             <pubDate>Fri, 15 Apr 2016 05:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Text: 780.237.2138]]></title>
-            <description><![CDATA[<article><h1>Text: 780.237.2138</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cadc43e7e8211a0982607e1180e9b646b33bda0d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/risk/contact-me/index.html</link>
-            <guid isPermaLink="false">925cee9f-111e-458b-8ee2-d38e1e112ebe</guid>
-            <pubDate>Fri, 15 Apr 2016 05:39:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Me]]></title>
