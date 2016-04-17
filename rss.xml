@@ -4,8 +4,15 @@
         <description><![CDATA[Mindful Designing]]></description>
         <link>https://thegrid.ai/risk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 04:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 04:18:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/risk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About me]]></title>
+            <description><![CDATA[<article><h1>About me</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e8be312-7bf5-4de0-abf4-10e8104a0ba5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/risk/about-me/index.html</link>
+            <guid isPermaLink="false">537efa7c-6541-4f1b-b266-0e3b850989ee</guid>
+            <pubDate>Sun, 17 Apr 2016 04:18:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Email]]></title>
             <description><![CDATA[<article><h1>Email</h1><h2>shaan.kapoor17@gmail.com</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a1df7af36422460c349e892b3513fadfac250d7.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/risk/projects/index.html</link>
             <guid isPermaLink="false">e18c7169-f550-4a77-b34e-06ed19b6a644</guid>
             <pubDate>Fri, 15 Apr 2016 05:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e8be312-7bf5-4de0-abf4-10e8104a0ba5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/risk/about-me/index.html</link>
-            <guid isPermaLink="false">537efa7c-6541-4f1b-b266-0e3b850989ee</guid>
-            <pubDate>Thu, 14 Apr 2016 20:11:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
