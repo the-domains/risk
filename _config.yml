@@ -1,29 +1,19 @@
-name: RiSK
-favicon: null
-layout_spectrum: 0.41017
-typography_spectrum: 0.15563832502812147
-title: Mindful Designing
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-74806505-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
-    - '#C0C0C0'
-    - '#000000'
-    - '#787878'
-    - '#000000'
+    - '#B8D0D8'
+    - '#000830'
+    - '#486888'
+    - '#2090F8'
     - '#000000'
   brandStrength: 0.5
   lightness: 0.6610749335959554
-  saturation: 0.1257169065065682
   rhythmicContrast: 0.5872112438082695
+  saturation: 0.1257169065065682
+cta: {}
+layout_spectrum: 0.41017
+name: RiSK
+opengraph: {}
 purpose: []
+typography_spectrum: 0.15563832502812147
