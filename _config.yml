@@ -7,10 +7,10 @@ color:
     - '#486888'
     - '#2090F8'
     - '#000000'
-  brandStrength: 0.5
-  lightness: 0.6610749335959554
-  rhythmicContrast: 0.5872112438082695
-  saturation: 0.1257169065065682
+  brandStrength: 0.333807
+  lightness: 0.661074
+  rhythmicContrast: 0.587211
+  saturation: 0.125716
 cta: {}
 layout_spectrum: 0.818182
 name: RiSK
