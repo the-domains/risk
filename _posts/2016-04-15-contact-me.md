@@ -1,25 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
+authors: []
+dateModified: '2016-04-20T04:33:54.943Z'
+datePublished: '2016-04-20T04:34:14.179Z'
 keywords: []
+publisher: {}
+title: shaan.kapoor17@gmail.com
+hasPage: true
+inFeed: true
+inNav: true
+starred: false
 description: ''
-datePublished: '2016-04-19T15:18:19.733Z'
-dateModified: '2016-04-19T15:18:18.243Z'
-title: Email
-author:
-  - name: ''
-    url: ''
+author: []
 sourcePath: _posts/2016-04-15-contact-me.md
 published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 url: contact-me/index.html
 _context: 'http://schema.org'
 _type: Article
@@ -30,8 +23,7 @@ _type: Article
 # Email
 
 ## shaan.kapoor17@gmail.com
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cadc43e7e8211a0982607e1180e9b646b33bda0d.jpg)
 
-# Text
+# Call
 
 ## 780.237.2138
