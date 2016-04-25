@@ -4,14 +4,14 @@
         <description><![CDATA[RiSK]]></description>
         <link>https://thegrid.ai/risk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 17:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 17:38:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/risk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Current Projects</p>]]></description>
+            <title><![CDATA[Current Projects]]></title>
+            <description><![CDATA[<h1>Current Projects</h1>]]></description>
             <link>https://thegrid.ai/risk/current-projects/index.html</link>
             <guid isPermaLink="false">54afad21-b573-4111-a7a7-0be5ae24d50c</guid>
-            <pubDate>Mon, 25 Apr 2016 17:23:25 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 17:38:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our Process ]]></title>
