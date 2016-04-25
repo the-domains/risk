@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Current Projects
-datePublished: '2016-04-25T17:23:25.166Z'
-dateModified: '2016-04-25T17:23:18.099Z'
-title: ''
+description: ''
+datePublished: '2016-04-25T17:38:09.448Z'
+dateModified: '2016-04-25T17:38:07.184Z'
+title: Current Projects
 author: []
+sourcePath: _posts/2016-04-25-current-projects.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,14 +18,10 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-current-projects.md
-published: true
 url: current-projects/index.html
 _type: Article
 
 ---
-Current Projects
+# [Current Projects][0]
 
-[Take One][0]
-
-[0]: https://youtu.be/IULGcZTbSy0
+[0]: null
