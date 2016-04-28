@@ -1,10 +1,10 @@
 ---
-dateModified: '2016-04-28T07:18:13.298Z'
-datePublished: '2016-04-28T07:18:26.892Z'
+dateModified: '2016-04-28T17:31:09.235Z'
+datePublished: '2016-04-28T17:31:22.641Z'
 hasPage: false
 inFeed: true
 inNav: false
-title: Social media
+title: 'Questions? '
 description: 'Call: 7802372138'
 author: []
 starred: false
@@ -19,11 +19,3 @@ _type: Article
 Call: 7802372138
 
 Email: Shaan.kapoor17@gmail.com
-
-### Social media
-
-Facebook
-
-Instagram
-
-Twitter
