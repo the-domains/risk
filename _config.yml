@@ -1,6 +1,6 @@
 name: RiSK
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.01565
 typography_spectrum: 0.15563832502812147
 cta:
   domain: null
