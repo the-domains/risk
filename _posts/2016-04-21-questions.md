@@ -1,15 +1,23 @@
 ---
-dateModified: '2016-04-28T17:31:09.235Z'
-datePublished: '2016-04-28T17:31:22.641Z'
-hasPage: false
 inFeed: true
-inNav: false
-title: 'Questions? '
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
 description: 'Call: 7802372138'
+datePublished: '2016-05-07T04:08:29.966Z'
+dateModified: '2016-05-07T04:08:27.415Z'
+title: 'Questions? '
 author: []
-starred: false
 sourcePath: _posts/2016-04-21-questions.md
-published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: questions/index.html
 _context: 'http://schema.org'
 _type: Article
 
