@@ -4,8 +4,15 @@
         <description><![CDATA[RiSK]]></description>
         <link>https://thegrid.ai/risk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 16:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 17:41:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/risk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pricing]]></title>
+            <description><![CDATA[<article><h1>Pricing</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb46729e-6c8b-4bb6-b55d-728b24d0bc4a.png"></article>]]></description>
+            <link>https://thegrid.ai/risk/fb783315-6da5-4f8c-9137-fa6683ff9747/index.html</link>
+            <guid isPermaLink="false">fb783315-6da5-4f8c-9137-fa6683ff9747</guid>
+            <pubDate>Thu, 19 May 2016 17:41:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our Process ]]></title>
             <description><![CDATA[<article><h1>Our Process </h1><p>As we begin to prioritize your needs, we will provide several designs suiting we your personal specifications until we design the home you've been dreaming about.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/863dfca1ea41672679f832df2ed1514e594a2d60.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/risk/projects/index.html</link>
             <guid isPermaLink="false">e18c7169-f550-4a77-b34e-06ed19b6a644</guid>
             <pubDate>Sat, 07 May 2016 04:14:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pricing]]></title>
-            <description><![CDATA[<article><h1>Pricing</h1><p>Our hourly pricing results in quality drawings & details allowing construction to continue with minimal interruptions.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb46729e-6c8b-4bb6-b55d-728b24d0bc4a.png"></article>]]></description>
-            <link>https://thegrid.ai/risk/fb783315-6da5-4f8c-9137-fa6683ff9747/index.html</link>
-            <guid isPermaLink="false">fb783315-6da5-4f8c-9137-fa6683ff9747</guid>
-            <pubDate>Tue, 19 Apr 2016 15:18:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
