@@ -1,19 +1,4 @@
-name: RiSK
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.87568
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74806505-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8D0D8'
@@ -25,4 +10,20 @@ color:
   lightness: 0.375
   saturation: 0.5
   rhythmicContrast: 0.587211
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: UA-74806505-2
+  facebook: null
+  twitter: null
+name: RiSK
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: RiSK
 purpose: []
