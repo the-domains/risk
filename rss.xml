@@ -4,8 +4,15 @@
         <description><![CDATA[RiSK]]></description>
         <link>https://thegrid.ai/risk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 05:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 14:00:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/risk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Goal]]></title>
+            <description><![CDATA[<article><h1>Our Goal</h1><p>Explore beyond the scope of traditional architecture into matters related to landscapes, interior design & utilizing elements like water & light in one of a kind features.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84073723-fdf4-4794-b83b-560e2fa7a4de.jpg"></article>]]></description>
+            <link>https://thegrid.ai/risk/our-goal/index.html</link>
+            <guid isPermaLink="false">99ddde07-53ff-438d-acd1-37601090d4f5</guid>
+            <pubDate>Wed, 24 Aug 2016 14:00:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our Services]]></title>
             <description><![CDATA[<article><h1>Our Services</h1><p>Span from landscaping to residential design at prices you'll love!!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9af949e-8f10-415f-a1a9-d7a00d8f38a3.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/risk/design-process/index.html</link>
             <guid isPermaLink="false">6efcb629-88b1-424f-9011-a5a433184de8</guid>
             <pubDate>Tue, 09 Aug 2016 06:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Goal]]></title>
-            <description><![CDATA[<article><h1>Our Goal</h1><p>Explore beyond the scope of traditional architecture into matters related to landscapes, interior design & utilizing elements like water & light in one of a kind features.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84073723-fdf4-4794-b83b-560e2fa7a4de.jpg"></article>]]></description>
-            <link>https://thegrid.ai/risk/our-goal/index.html</link>
-            <guid isPermaLink="false">99ddde07-53ff-438d-acd1-37601090d4f5</guid>
-            <pubDate>Fri, 13 May 2016 04:59:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
