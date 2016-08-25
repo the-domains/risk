@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Our Goal
+    id: 99ddde07-53ff-438d-acd1-37601090d4f5
+    type: content
 favicon: null
 title: ''
 purpose: []
