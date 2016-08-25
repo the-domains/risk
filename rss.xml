@@ -4,21 +4,21 @@
         <description><![CDATA[RiSK]]></description>
         <link>https://thegrid.ai/risk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 05:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 05:28:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/risk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Staying within Budget!! ]]></title>
+            <description><![CDATA[<article><h1>Staying within Budget!! </h1><p>Knowing that there is nothing worse than receiving a bill that is way out of budget. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/863dfca1ea41672679f832df2ed1514e594a2d60.jpg"></article>]]></description>
+            <link>https://thegrid.ai/risk/design-process/index.html</link>
+            <guid isPermaLink="false">6efcb629-88b1-424f-9011-a5a433184de8</guid>
+            <pubDate>Thu, 25 Aug 2016 05:28:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our Services]]></title>
             <description><![CDATA[<article><h1>Our Services</h1><p>Span from landscaping to residential design at prices you'll love!!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9af949e-8f10-415f-a1a9-d7a00d8f38a3.jpg"></article>]]></description>
             <link>https://thegrid.ai/risk/our-services/index.html</link>
             <guid isPermaLink="false">e18c7169-f550-4a77-b34e-06ed19b6a644</guid>
             <pubDate>Thu, 25 Aug 2016 05:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Process ]]></title>
-            <description><![CDATA[<article><h1>Our Process </h1><p>Knowing that there is nothing worse than receiving a bill that is way out of budget. We use an integrated approach to track necessary materials and trades for your project as we are designing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/863dfca1ea41672679f832df2ed1514e594a2d60.jpg"></article>]]></description>
-            <link>https://thegrid.ai/risk/design-process/index.html</link>
-            <guid isPermaLink="false">6efcb629-88b1-424f-9011-a5a433184de8</guid>
-            <pubDate>Thu, 25 Aug 2016 05:11:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pricing]]></title>
@@ -33,6 +33,13 @@
             <link>https://thegrid.ai/risk/our-goal/index.html</link>
             <guid isPermaLink="false">99ddde07-53ff-438d-acd1-37601090d4f5</guid>
             <pubDate>Thu, 25 Aug 2016 05:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3edcdae1182dc92b34e160014ede46920fa388e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/risk/about-us/index.html</link>
+            <guid isPermaLink="false">5e0c6786-c02e-4729-8a19-283f857ae569</guid>
+            <pubDate>Thu, 25 Aug 2016 05:12:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
