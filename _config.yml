@@ -1,4 +1,12 @@
+name: RiSK
+layout_spectrum: 0
 typography_spectrum: 0.87568
+cta: {}
+analytics:
+  google: UA-74806505-2
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#B8D0D8'
@@ -10,20 +18,14 @@ color:
   lightness: 0.375
   saturation: 0.5
   rhythmicContrast: 0.587211
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0
-analytics:
-  google: UA-74806505-2
-  facebook: null
-  twitter: null
-name: RiSK
-cta:
-  domain: null
-  bucket: null
-  version: null
+purpose: []
+title: 'Landscape. Architectural. Interior Design. '
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
 navigation:
   - name: Our Goal
     id: 99ddde07-53ff-438d-acd1-37601090d4f5
@@ -40,6 +42,3 @@ navigation:
   - name: About Us
     id: 5e0c6786-c02e-4729-8a19-283f857ae569
     type: content
-favicon: null
-title: ''
-purpose: []
