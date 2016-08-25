@@ -4,8 +4,15 @@
         <description><![CDATA[RiSK]]></description>
         <link>https://thegrid.ai/risk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 14:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 02:16:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/risk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Process ]]></title>
+            <description><![CDATA[<article><h1>Our Process </h1><p>Knowing that there is nothing worse than receiving a bill that is way out of budget. We use an integrated approach to track necessary materials and trades for your project as we are designing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/863dfca1ea41672679f832df2ed1514e594a2d60.jpg"></article>]]></description>
+            <link>https://thegrid.ai/risk/design-process/index.html</link>
+            <guid isPermaLink="false">6efcb629-88b1-424f-9011-a5a433184de8</guid>
+            <pubDate>Thu, 25 Aug 2016 02:15:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our Goal]]></title>
             <description><![CDATA[<article><h1>Our Goal</h1><p>Explore beyond the scope of traditional architecture into matters related to landscapes, interior design & utilizing elements like water & light in one of a kind features.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84073723-fdf4-4794-b83b-560e2fa7a4de.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/risk/fb783315-6da5-4f8c-9137-fa6683ff9747/index.html</link>
             <guid isPermaLink="false">fb783315-6da5-4f8c-9137-fa6683ff9747</guid>
             <pubDate>Sun, 21 Aug 2016 05:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Process ]]></title>
-            <description><![CDATA[<article><h1>Our Process </h1><p>As we begin to prioritize your needs, we will provide several designs suiting we your personal specifications until we design the home you've been dreaming about.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/863dfca1ea41672679f832df2ed1514e594a2d60.jpg"></article>]]></description>
-            <link>https://thegrid.ai/risk/design-process/index.html</link>
-            <guid isPermaLink="false">6efcb629-88b1-424f-9011-a5a433184de8</guid>
-            <pubDate>Tue, 09 Aug 2016 06:56:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
