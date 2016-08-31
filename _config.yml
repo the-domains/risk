@@ -1,12 +1,5 @@
-name: RiSK
-layout_spectrum: 0
+layout_spectrum: 0.25255477242171764
 typography_spectrum: 0.8847336051985621
-cta: {}
-analytics:
-  google: UA-74806505-2
-opengraph:
-  type: ''
-  appId: ''
 color:
   brandColors:
     - '#B8D0D8'
@@ -18,6 +11,13 @@ color:
   lightness: 0.375
   saturation: 0.5
   rhythmicContrast: 0.587211
+name: RiSK
+cta: {}
+analytics:
+  google: UA-74806505-2
+opengraph:
+  type: ''
+  appId: ''
 purpose: []
 title: 'Landscape. Architectural Design & Interior Designing '
 author:
