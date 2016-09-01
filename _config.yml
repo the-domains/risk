@@ -1,5 +1,6 @@
-layout_spectrum: 0.4903213703073561
 typography_spectrum: 0.4787194752134383
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B8D0D8'
@@ -11,19 +12,17 @@ color:
   lightness: 0.375
   saturation: 0.5
   rhythmicContrast: 0.587211
-content_rating:
-  adult: false
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.4903213703073561
 analytics:
   google: UA-74806505-2
 author:
   name: ''
   url: ''
   email: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bf65d58-61ab-40d2-a2c2-2a008aee7149.jpg
+logo: null
 name: RiSK
 cta: {}
 navigation:
