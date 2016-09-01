@@ -1,5 +1,6 @@
-layout_spectrum: 0.25255477242171764
 typography_spectrum: 0.8847336051985621
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B8D0D8'
@@ -11,21 +12,20 @@ color:
   lightness: 0.375
   saturation: 0.5
   rhythmicContrast: 0.587211
-name: RiSK
-cta: {}
-analytics:
-  google: UA-74806505-2
 opengraph:
   type: ''
   appId: ''
-purpose: []
-title: 'Landscape. Architectural Design & Interior Designing '
+layout_spectrum: 0.25255477242171764
+analytics:
+  google: UA-74806505-2
 author:
   name: ''
   url: ''
   email: ''
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bf65d58-61ab-40d2-a2c2-2a008aee7149.jpg
+name: RiSK
+cta: {}
 navigation:
   - name: Our Goal
     id: 99ddde07-53ff-438d-acd1-37601090d4f5
@@ -42,3 +42,5 @@ navigation:
   - name: About Us
     id: 5e0c6786-c02e-4729-8a19-283f857ae569
     type: content
+title: 'Landscape. Architectural Design & Interior Designing '
+purpose: []
