@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-09-01T04:14:42.983Z'
-sourcePath: _posts/2016-05-14-our-projects.md
+keywords: []
+title: Our Work
+datePublished: '2016-09-01T04:48:51.484Z'
+dateModified: '2016-09-01T04:48:49.074Z'
+publisher: {}
+author: []
 inFeed: true
 hasPage: false
-keywords: []
-author: []
-via: {}
-dateModified: '2016-09-01T04:14:42.371Z'
-title: Our Work
-publisher: {}
+inNav: false
 description: >-
   From the initial drawings to the finishing nail, our only goal is to realize
   your dream!
-inNav: false
+via: {}
 starred: false
+sourcePath: _posts/2016-05-14-our-projects.md
 _type: Blurb
 
 ---
