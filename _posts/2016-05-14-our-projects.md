@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-01T03:54:05.547Z'
+datePublished: '2016-09-01T03:55:29.525Z'
 sourcePath: _posts/2016-05-14-our-projects.md
 inFeed: true
 hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T03:53:52.933Z'
+dateModified: '2016-09-01T03:54:10.785Z'
 title: Our Work
 publisher: {}
 description: >-
